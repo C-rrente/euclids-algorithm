@@ -11,4 +11,5 @@
 /_/   \_\_|\__, |\___/|_|  |_|\__|_| |_|_| |_| |_|
            |___/                                  
 		  
-
+This is a basic algorithm that prints the boxes visualized in a rectangle for Euclid's Algorithm.
+If you would like to run the program you can compile, run, and type in your width and height.
